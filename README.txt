@@ -1,8 +1,3 @@
-Eric Anderson
-eander29@u.rochester.edu
-
-No known collaborators
-
 All code is in project3.lisp
 
 Running project3.lisp will run the required test cases and then prompt the user for input for the current function.
@@ -21,8 +16,6 @@ Four functions at top of project3.lisp:
 	- floor (x y), my recursive implementation of floor division
 	- add3 (x)
 	- lessthan3 (x)
-
-Then, all functions in order as given in project description.
 
 Function arguments:
 	-gcd (x y) - x must be smaller than y
